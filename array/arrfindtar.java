@@ -40,7 +40,11 @@ public class arrfindtar {
                 }
             }
         }
+        if (!a){
+                System.out.println("invalid input");
+            }
         System.out.println();
+        
 
 
 
